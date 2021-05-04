@@ -16,3 +16,4 @@
   - /r/amateurradio
   - konijntjesbroek on freenode
   - koni on coding_dojo discord
+  - https://postapocalyptichobo.blogspot.com/

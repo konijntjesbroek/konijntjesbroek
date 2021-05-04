@@ -1,0 +1,18 @@
+## konijntjesbroek
+- Arlo Gittings, not dutch.
+- Mostly work in python, but am now working on some C.
+- Passionate about:
+  - Radios 
+  - Electronics
+  - Games
+  - Movies
+  - Music
+  - Solving Problems
+  - Helping people
+- Can be found hanging around in:
+  - /r/learnPython
+  - /r/learnProgramming
+  - /r/Python
+  - /r/amateurradio
+  - konijntjesbroek on freenode
+  - koni on coding_dojo discord
